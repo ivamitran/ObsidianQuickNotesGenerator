@@ -3,7 +3,7 @@ import java.util.List;
 
 public class DatedQuickNotesFramework {
 
-    static String datedToDoListNotesRootNoteName = "datedToDoListsRootNote";
+    static String datedToDoListNotesRootNoteName = "datedQuickNotesRootNote";
 
     // this list will hold the LocalDate objects that correspond to each DatedQuickNote object
     // is List and not LocalDate[] because the method used to generate the sequence of LocalDates returns a list
